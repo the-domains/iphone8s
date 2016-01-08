@@ -1,0 +1,28 @@
+name: iphone8s
+favicon: null
+layout_spectrum: 0.12232943275012076
+typography_spectrum: 0.05881826067343354
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.621232598554343
+  lightness: 0.7719075514469296
+  saturation: 0.03543265210464597
+  rhythmicContrast: 0.6442190387751907
+purpose: []
